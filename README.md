@@ -8,6 +8,7 @@ This project simulates a real-world software QA workflow, including manual testi
 - JIRA – Bug tracking and test management
 - Apache JMeter – Performance testing
 - ShareX – Screen capture
+- Automation Testing: Selenium with Python
 
 ## Test Summary
 
@@ -15,7 +16,7 @@ This project simulates a real-world software QA workflow, including manual testi
 - Focused on login, navigation, and product search functionalities
 - Documented 3 bugs
 - Ran JMeter tests simulating 500 virtual users
-- Recorded and annotated all issues
+- UI Automation using Selenium
 
 ## Folder Contents
 
